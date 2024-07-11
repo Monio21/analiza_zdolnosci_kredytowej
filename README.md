@@ -1,1 +1,1 @@
-# analiza_zdolno-ci_kredytowej
+# analiza_zdolności_kredytowej
