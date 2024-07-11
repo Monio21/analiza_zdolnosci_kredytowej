@@ -72,7 +72,7 @@ Aby zbudować projekt, wykonaj następujące kroki:
 
 ## Autorzy
 
-- **Twoje Imię i Nazwisko** – [Twoje GitHub](https://github.com/yourusername)
+- **Maciej Jerominek** 
 
 ## Licencja
 
