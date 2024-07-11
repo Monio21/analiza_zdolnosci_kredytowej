@@ -1,0 +1,54 @@
+#include "zkonsoli.h"
+
+Kredytobiorca konsola :: Zkonsoli(){
+    Kredytobiorca Kredytobiorca;
+        osoba Osoba;
+        majatek Majatek;
+        std::string dane;
+        std::cout << "Wprowadz imie: " << std::endl;
+        std::cin >> dane;
+        Osoba.setImie(dane);
+        std::cout << std::endl;
+        std::cout << "Wprowadz nazwisko: " << std::endl;
+        std::cin >> dane;
+        Osoba.setNazwisko(dane);
+        Kredytobiorca.setOsoba(Osoba);
+        std::cout << std::endl;
+        std::cout << "Wprowadz wiek: " << std::endl;
+        std::cin >> dane;
+        Kredytobiorca.setWiek(std::stoi(dane));
+        std::cout << std::endl;
+        std::cout << "Wprowadz stan cywilny: " << std::endl;
+        std::cin >> dane;
+        Kredytobiorca.setStan_cywilny(dane);
+        std::cout << std::endl;
+        std::cout << "Wprowadz dochody: " << std::endl;
+        std::cin >> dane;
+        Kredytobiorca.setDochody(std::stoi(dane));
+        std::cout << std::endl;
+        std::cout << "Wprowadz rodzaj zatrudnienia: " << std::endl;
+        std::cin >> dane;
+        Kredytobiorca.setRodzaj_zatrudnienia(dane);
+        std::cout << std::endl;
+        std::cout << "Wprowadz wydatki: " << std::endl;
+        std::cin >> dane;
+        Kredytobiorca.setWydatki(std::stoi(dane));
+        std::cout << std::endl;
+        std::cout << "Wprowadz scoring: " << std::endl;
+        std::cin >> dane;
+        Kredytobiorca.setScoring(std::stoi(dane));
+        std::cout << std::endl;
+        std::cout << "Wprowadz wartosc auta: " << std::endl;
+        std::cin >> dane;
+        Majatek.SetAuto(std::stoi(dane));
+        std::cout << std::endl;
+        std::cout << "Wprowadz wartosc nieruchomosci: " << std::endl;
+        std::cin >> dane;
+        Majatek.SetNieruchomosc(std::stoi(dane));
+        Kredytobiorca.setMajatek(Majatek);
+        std::cout << "Wprowadz liczbe lat na jaka chcesz uzyskac kredyt: " << std::endl;
+        std::cin >> dane;
+        Kredytobiorca.setLiczba_lat(std::stoi(dane));
+        std::cout << std::endl;
+    return Kredytobiorca;
+}
