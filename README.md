@@ -1,4 +1,4 @@
-# analiza_zdolności_kredytowej
+
 # Kalkulator Zdolności Kredytowej
 
 ## Opis projektu
