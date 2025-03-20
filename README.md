@@ -70,7 +70,7 @@ Aby zbudować projekt, wykonaj następujące kroki:
 3. Postępuj zgodnie z instrukcjami wyświetlanymi na ekranie.
 4. Po zakończeniu obliczeń, wyniki zostaną zapisane w pliku `wyjscie.csv`.
 
-## Autorzy
+## Autor
 
 - **Maciej Jerominek** 
 
