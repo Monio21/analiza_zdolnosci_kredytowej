@@ -80,5 +80,5 @@ Ten projekt jest licencjonowany na podstawie licencji MIT - szczegóły w pliku 
 
 ## Uwagi końcowe
 
-Jeśli masz pytania lub uwagi dotyczące projektu, prosimy o kontakt przez GitHub Issues lub bezpośrednio przez e-mail.
+Jeśli masz pytania lub uwagi dotyczące projektu, proszę o kontakt przez GitHub Issues lub bezpośrednio przez e-mail.
 
