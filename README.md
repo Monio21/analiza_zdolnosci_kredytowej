@@ -38,8 +38,8 @@ Aby zbudować projekt, wykonaj następujące kroki:
 
 1. Sklonuj repozytorium:
     ```sh
-    git clone https://github.com/yourusername/kalkulator-zdolnosci-kredytowej.git
-    cd kalkulator-zdolnosci-kredytowej
+    git clone https://github.com/Monio21/analiza_zdolnosci_kredytowej
+    cd analiza_zdolnosci_kredytowej
     ```
 
 2. Stwórz katalog build i przejdź do niego:
@@ -60,7 +60,7 @@ Aby zbudować projekt, wykonaj następujące kroki:
 
 5. Uruchom program:
     ```sh
-    ./KalkulatorZdolnosciKredytowej
+    ./analiza_zdolnosci_kredytowej
     ```
 
 ## Przykład użycia
