@@ -14,7 +14,7 @@
 
 ## Struktura projektu
 
-Projekt składa się z następujących plików i folderów:
+Projekt składa się z następujących plików:
 
 - **main.cpp** – Główny plik wykonywalny programu.
 - **Kredytobiorca.h/cpp** – Pliki definicji i implementacji klasy `Kredytobiorca`.
