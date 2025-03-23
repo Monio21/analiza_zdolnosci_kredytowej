@@ -38,7 +38,7 @@ Aby zbudować projekt, wykonaj następujące kroki:
 
 1. Sklonuj repozytorium:
     ```sh
-    git clone https://github.com/Monio21/analiza_zdolnosci_kredytowej
+    git clone https://github.com/Monio21/analiza_zdolnosci_kredytowej.git
     cd analiza_zdolnosci_kredytowej
     ```
 
